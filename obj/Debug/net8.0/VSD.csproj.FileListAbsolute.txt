@@ -1,0 +1,28 @@
+C:/Users/andre/OneDrive/Área de Trabalho/VSD/obj/Debug/net8.0/VSD.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/andre/OneDrive/Área de Trabalho/VSD/obj/Debug/net8.0/VSD.AssemblyInfoInputs.cache
+C:/Users/andre/OneDrive/Área de Trabalho/VSD/obj/Debug/net8.0/VSD.AssemblyInfo.cs
+C:/Users/andre/OneDrive/Área de Trabalho/VSD/obj/Debug/net8.0/VSD.csproj.CoreCompileInputs.cache
+C:/Users/andre/OneDrive/Área de Trabalho/VSD/bin/Debug/net8.0/VSD.exe
+C:/Users/andre/OneDrive/Área de Trabalho/VSD/bin/Debug/net8.0/VSD.deps.json
+C:/Users/andre/OneDrive/Área de Trabalho/VSD/bin/Debug/net8.0/VSD.runtimeconfig.json
+C:/Users/andre/OneDrive/Área de Trabalho/VSD/bin/Debug/net8.0/VSD.dll
+C:/Users/andre/OneDrive/Área de Trabalho/VSD/bin/Debug/net8.0/VSD.pdb
+C:/Users/andre/OneDrive/Área de Trabalho/VSD/obj/Debug/net8.0/VSD.dll
+C:/Users/andre/OneDrive/Área de Trabalho/VSD/obj/Debug/net8.0/refint/VSD.dll
+C:/Users/andre/OneDrive/Área de Trabalho/VSD/obj/Debug/net8.0/VSD.pdb
+C:/Users/andre/OneDrive/Área de Trabalho/VSD/obj/Debug/net8.0/VSD.genruntimeconfig.cache
+C:/Users/andre/OneDrive/Área de Trabalho/VSD/obj/Debug/net8.0/ref/VSD.dll
+/home/developer/Área de Trabalho/Back End/VSD/bin/Debug/net8.0/VSD
+/home/developer/Área de Trabalho/Back End/VSD/bin/Debug/net8.0/VSD.deps.json
+/home/developer/Área de Trabalho/Back End/VSD/bin/Debug/net8.0/VSD.runtimeconfig.json
+/home/developer/Área de Trabalho/Back End/VSD/bin/Debug/net8.0/VSD.dll
+/home/developer/Área de Trabalho/Back End/VSD/bin/Debug/net8.0/VSD.pdb
+/home/developer/Área de Trabalho/Back End/VSD/obj/Debug/net8.0/VSD.GeneratedMSBuildEditorConfig.editorconfig
+/home/developer/Área de Trabalho/Back End/VSD/obj/Debug/net8.0/VSD.AssemblyInfoInputs.cache
+/home/developer/Área de Trabalho/Back End/VSD/obj/Debug/net8.0/VSD.AssemblyInfo.cs
+/home/developer/Área de Trabalho/Back End/VSD/obj/Debug/net8.0/VSD.csproj.CoreCompileInputs.cache
+/home/developer/Área de Trabalho/Back End/VSD/obj/Debug/net8.0/VSD.dll
+/home/developer/Área de Trabalho/Back End/VSD/obj/Debug/net8.0/refint/VSD.dll
+/home/developer/Área de Trabalho/Back End/VSD/obj/Debug/net8.0/VSD.pdb
+/home/developer/Área de Trabalho/Back End/VSD/obj/Debug/net8.0/VSD.genruntimeconfig.cache
+/home/developer/Área de Trabalho/Back End/VSD/obj/Debug/net8.0/ref/VSD.dll
