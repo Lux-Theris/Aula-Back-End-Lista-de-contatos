@@ -11,7 +11,7 @@ class Program
         {
 
             Console.WriteLine(@"
-            Digite 1 para Verificar se o numero é par ou ímpar \n
+            Digite 1 para Verificar se o numero é par ou ímpar
             Digite 2 para acessar o menu de contatos ");
             switch (Console.ReadLine())
             {

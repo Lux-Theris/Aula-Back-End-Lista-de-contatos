@@ -26,3 +26,4 @@ C:/Users/andre/OneDrive/Área de Trabalho/VSD/obj/Debug/net8.0/ref/VSD.dll
 /home/developer/Área de Trabalho/Back End/VSD/obj/Debug/net8.0/VSD.pdb
 /home/developer/Área de Trabalho/Back End/VSD/obj/Debug/net8.0/VSD.genruntimeconfig.cache
 /home/developer/Área de Trabalho/Back End/VSD/obj/Debug/net8.0/ref/VSD.dll
+/home/developer/Área de Trabalho/Back End/VSD/obj/Debug/net8.0/VSD.sourcelink.json
